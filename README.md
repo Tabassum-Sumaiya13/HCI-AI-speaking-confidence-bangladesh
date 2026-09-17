@@ -4,6 +4,10 @@
 
 A mixed-methods HCI study exploring the cognitive, social, and cultural factors affecting English speaking confidence among Bangladeshi university students, and how AI-powered conversational tools can be designed to address them.
 
+- **Course : CSE 4451	Human Computer Interaction**
+- **United Internation University**
+- **Spring 2026**
+
 ---
 
 ## 📁 Files
